@@ -1,1 +1,1 @@
-# welcome every hackers this repositories and a portscan when use /proc/net/tcp
+# welcome every hackers this repositories and a portscan what use /proc/net/tcp
