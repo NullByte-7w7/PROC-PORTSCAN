@@ -26,3 +26,6 @@
 **here is the table that contains the ports**
 
 ![image](https://github.com/user-attachments/assets/7c52634f-62d1-4a6e-97b0-421ab31917c6)
+
+## Warning
+**as you can see it has repeated ports, I'm using my vps and it appears 3 ports 53 probably is some problem with vps, but yes it works normally, if you want by your choice put the ports you want, just modify the source code**
