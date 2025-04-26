@@ -32,7 +32,7 @@ void process_proc_tcp(void){
 // main code
 int main(void){
 
-        printf("[*] WHEREP PORT 0x0539\n");
+        printf("[*] WHERE PORT 0x0539\n");
         process_proc_tcp();
 
 
