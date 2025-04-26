@@ -14,3 +14,11 @@
 ## what benefits of using this proc-portscan?
 
 1. *no network noise or alert sysadmin/blue team*
+2. not having to read /proc/net/tcp and convert each port to decimal, depending on the network you are on, it can be challenging to convert all ports
+3. easy and fast
+
+## how it work?
+
+let's go to the more technical part, explaining the code and how it works.
+
+
