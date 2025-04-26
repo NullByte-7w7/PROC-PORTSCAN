@@ -23,4 +23,6 @@
 
 ![image](https://github.com/user-attachments/assets/31ed8170-1565-4747-ae0a-ebd9b661ff49)
 
+**here is the table that contains the ports**
 
+![image](https://github.com/user-attachments/assets/7c52634f-62d1-4a6e-97b0-421ab31917c6)
